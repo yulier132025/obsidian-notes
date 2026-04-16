@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"1b04d1dc324e1f48","x":-895,"y":-624,"width":295,"height":60,"type":"text","text":"之后下雨也要完成必须完成的任务"}
+		{"id":"1b04d1dc324e1f48","type":"text","text":"之后下雨也要完成必须完成的任务","x":-895,"y":-624,"width":295,"height":60},
+		{"id":"e8cc7e21ea01a9c0","x":-829,"y":-772,"width":250,"height":60,"type":"text","text":"111"}
 	],
 	"edges":[]
 }
