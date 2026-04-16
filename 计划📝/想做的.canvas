@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d00eb4bdfbdecd49","type":"text","text":"可以干什么","x":-305,"y":-74,"width":250,"height":60},
+		{"id":"7781e59f6f31e67f","type":"text","text":"整理微信记录","x":55,"y":-76,"width":250,"height":60},
+		{"id":"e8f5c2153abe7eda","type":"text","text":"bilibili 思想整合","x":55,"y":16,"width":250,"height":60}
+	],
+	"edges":[]
+}
