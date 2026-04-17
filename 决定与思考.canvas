@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"1b04d1dc324e1f48","type":"text","text":"之后下雨也要完成必须完成的任务","x":-895,"y":-624,"width":295,"height":60},
 		{"id":"e8cc7e21ea01a9c0","type":"text","text":"111","x":-829,"y":-772,"width":250,"height":60},
-		{"id":"f4bf8e1ae958aeae","x":-1101,"y":-930,"width":250,"height":60,"type":"text","text":"222"}
+		{"id":"f4bf8e1ae958aeae","type":"text","text":"222","x":-1101,"y":-930,"width":250,"height":60},
+		{"id":"c20a5a6b15bca442","x":-1500,"y":-1021,"width":250,"height":60,"type":"text","text":"333"}
 	],
 	"edges":[]
 }
