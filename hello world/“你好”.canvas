@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"24ff3ae2216f5436","x":10,"y":-121,"width":250,"height":60,"type":"text","text":"hello world"}
+		{"id":"24ff3ae2216f5436","type":"text","text":"hello world","x":10,"y":-121,"width":250,"height":60},
+		{"id":"20d834bfdf71d62d","x":-236,"y":-286,"width":250,"height":60,"type":"text","text":"“ hi？ ”"},
+		{"id":"51f04a678cd1e691","x":-187,"y":-17,"width":250,"height":60,"type":"text","text":"MY NAME IS？"}
 	],
 	"edges":[]
 }
