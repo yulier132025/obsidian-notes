@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"24ff3ae2216f5436","x":10,"y":-121,"width":250,"height":60,"type":"text","text":"hello world"}
+	],
+	"edges":[]
+}
