@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"eaf94a512a3eb8e8","x":-219,"y":-62,"width":250,"height":60,"type":"text","text":"电脑"},
+		{"id":"180e54513240848f","x":-219,"y":80,"width":250,"height":60,"type":"text","text":"打开手机"},
+		{"id":"4299a09a8aaf7273","x":-600,"y":-62,"width":250,"height":60,"type":"text","text":"我的需求？"},
+		{"id":"99bd658ed42b578b","x":190,"y":80,"width":250,"height":60,"type":"text","text":"手动代码"},
+		{"id":"e762e5c96162d26e","x":190,"y":220,"width":250,"height":60,"type":"text","text":"手动按钮"},
+		{"id":"c8afe4a6cd0b4d5f","x":190,"y":360,"width":250,"height":60,"type":"text","text":"全自动（开机自启动）"},
+		{"id":"95cece4a2547781d","x":190,"y":-62,"width":250,"height":60,"type":"text","text":"自动下载并上传"},
+		{"id":"ac40442c7571b500","x":640,"y":300,"width":250,"height":60,"type":"text","text":"隔几分钟上传一次"},
+		{"id":"4f14e1abcbaf23f9","x":640,"y":160,"width":250,"height":60,"type":"text","text":"自动下载"},
+		{"id":"d42055cad862de02","x":-600,"y":80,"width":250,"height":60,"type":"text","text":"一般都是一次用一个设备"},
+		{"id":"4817ec3a4a477c91","x":1000,"y":190,"width":464,"height":120,"type":"text","text":"方案①：写之前/开机之后\n\n按按钮（下载并上传一次+开启脚本隔几分钟一次上传）\n\n"}
+	],
+	"edges":[
+		{"id":"1570230d20d4d0be","fromNode":"eaf94a512a3eb8e8","fromSide":"right","toNode":"95cece4a2547781d","toSide":"left"},
+		{"id":"9f51b9d964394761","fromNode":"4299a09a8aaf7273","fromSide":"right","toNode":"eaf94a512a3eb8e8","toSide":"left"},
+		{"id":"c0d08b8a5d3f76e7","fromNode":"4299a09a8aaf7273","fromSide":"right","toNode":"180e54513240848f","toSide":"left"},
+		{"id":"7a5e7b9daef4a154","fromNode":"180e54513240848f","fromSide":"right","toNode":"99bd658ed42b578b","toSide":"left"},
+		{"id":"21a0b7034b6bf7c4","fromNode":"180e54513240848f","fromSide":"right","toNode":"e762e5c96162d26e","toSide":"left"},
+		{"id":"afe7e9044fa20651","fromNode":"180e54513240848f","fromSide":"right","toNode":"c8afe4a6cd0b4d5f","toSide":"left"},
+		{"id":"fbfa7c9fc1c1a6c4","fromNode":"c8afe4a6cd0b4d5f","fromSide":"right","toNode":"4f14e1abcbaf23f9","toSide":"left"},
+		{"id":"a934bf7602a8cacd","fromNode":"e762e5c96162d26e","fromSide":"right","toNode":"4f14e1abcbaf23f9","toSide":"left"},
+		{"id":"3228fd63596efad5","fromNode":"99bd658ed42b578b","fromSide":"right","toNode":"4f14e1abcbaf23f9","toSide":"left"},
+		{"id":"584914d204026da0","fromNode":"99bd658ed42b578b","fromSide":"right","toNode":"ac40442c7571b500","toSide":"left"},
+		{"id":"2193d2b9b2468d92","fromNode":"e762e5c96162d26e","fromSide":"right","toNode":"ac40442c7571b500","toSide":"left"},
+		{"id":"f632a4b2dfb4a127","fromNode":"c8afe4a6cd0b4d5f","fromSide":"right","toNode":"ac40442c7571b500","toSide":"left"},
+		{"id":"d027f4681b5c06c5","fromNode":"d42055cad862de02","fromSide":"top","toNode":"4299a09a8aaf7273","toSide":"bottom"},
+		{"id":"2009ad892ac44237","fromNode":"4f14e1abcbaf23f9","fromSide":"right","toNode":"4817ec3a4a477c91","toSide":"left"},
+		{"id":"af3ebcfe4bff8487","fromNode":"ac40442c7571b500","fromSide":"right","toNode":"4817ec3a4a477c91","toSide":"left"}
+	]
+}
