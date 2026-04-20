@@ -1,12 +1,13 @@
 {
 	"nodes":[
 		{"id":"24ff3ae2216f5436","type":"text","text":"hello world","x":10,"y":-121,"width":250,"height":60},
-		{"id":"20d834bfdf71d62d","x":-236,"y":-286,"width":250,"height":60,"type":"text","text":"“ hi？ ”"},
-		{"id":"51f04a678cd1e691","x":-187,"y":-17,"width":250,"height":60,"type":"text","text":"MY NAME IS？"},
-		{"id":"8e716ee482e7357c","x":102,"y":191,"width":250,"height":60,"type":"text","text":"你好？"},
-		{"id":"7920863b3e2b524a","x":-486,"y":-151,"width":250,"height":60,"type":"text","text":"can you see me？"},
-		{"id":"1ad8d8713ff72071","x":-331,"y":181,"width":250,"height":60,"type":"text","text":"hello？"},
-		{"id":"6cace984b5cc4671","x":-50,"y":458,"width":250,"height":60,"type":"text","text":"why？"}
+		{"id":"20d834bfdf71d62d","type":"text","text":"“ hi？ ”","x":-236,"y":-286,"width":250,"height":60},
+		{"id":"51f04a678cd1e691","type":"text","text":"MY NAME IS？","x":-187,"y":-17,"width":250,"height":60},
+		{"id":"8e716ee482e7357c","type":"text","text":"你好？","x":102,"y":191,"width":250,"height":60},
+		{"id":"7920863b3e2b524a","type":"text","text":"can you see me？","x":-486,"y":-151,"width":250,"height":60},
+		{"id":"1ad8d8713ff72071","type":"text","text":"hello？","x":-331,"y":181,"width":250,"height":60},
+		{"id":"6cace984b5cc4671","type":"text","text":"why？","x":-50,"y":458,"width":250,"height":60},
+		{"id":"8712137419cbf5b9","x":-1163,"y":434,"width":250,"height":60,"type":"text","text":"test"}
 	],
 	"edges":[]
 }
