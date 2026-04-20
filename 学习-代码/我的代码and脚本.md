@@ -63,11 +63,13 @@ else
 fi
 
 ---
-检测
+
+检测是否运行
+
+nano ~/.shortcuts/status-autosync.sh
 
 
 
-...ermux/files/home/.shortcuts/status-autosync.sh
 #!/data/data/com.termux/files/usr/bin/bash
 
 if pgrep -f autosync.sh > /dev/null
