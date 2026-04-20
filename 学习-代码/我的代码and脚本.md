@@ -63,3 +63,17 @@ else
 fi
 
 ---
+检测
+
+
+
+...ermux/files/home/.shortcuts/status-autosync.sh
+#!/data/data/com.termux/files/usr/bin/bash
+
+if pgrep -f autosync.sh > /dev/null
+then
+  echo "🟢 autosync 正在运行"
+else
+  echo "🔴 autosync 未运行"
+fi
+
