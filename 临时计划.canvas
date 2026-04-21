@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a0cc528dcdafb518","x":-206,"y":-233,"width":250,"height":60,"type":"text","text":"主要目的"},
+		{"id":"00efeb7f7436abf5","x":-206,"y":-100,"width":250,"height":60,"type":"text","text":"动起来"},
+		{"id":"33cef747db11bbfa","x":-206,"y":40,"width":250,"height":60,"type":"text","text":"因为白天无所事事很痛苦"},
+		{"id":"13c6123e14f2eda2","x":160,"y":-233,"width":250,"height":60,"type":"text","text":"要做什么直接开始"},
+		{"id":"23d02739df9e80e1","x":160,"y":-100,"width":250,"height":60,"type":"text","text":"醒来就做事"},
+		{"id":"5da7a8540865b8dc","x":160,"y":40,"width":250,"height":60,"type":"text","text":"累了就睡觉"},
+		{"id":"3f2870e7a17f94d5","x":160,"y":200,"width":280,"height":60,"type":"text","text":"重点：禁止刷视频，游戏，lol"},
+		{"id":"1ddbdedc9cefb2b1","x":160,"y":360,"width":340,"height":60,"type":"text","text":"无法停止，耗费大量时间，无增长行为"},
+		{"id":"23393d327a93d1b4","x":560,"y":-233,"width":250,"height":60,"type":"text","text":"学习+增重"},
+		{"id":"690454191100b9f6","x":560,"y":-100,"width":280,"height":60,"type":"text","text":"非太阳不出门，有太阳必出门"},
+		{"id":"2067edc7d843173b","x":560,"y":360,"width":250,"height":60,"type":"text","text":"注：避免“负重”状态"}
+	],
+	"edges":[
+		{"id":"097b95fa7ecf1004","fromNode":"a0cc528dcdafb518","fromSide":"bottom","toNode":"00efeb7f7436abf5","toSide":"top"},
+		{"id":"b1947a3c8255e5c7","fromNode":"00efeb7f7436abf5","fromSide":"bottom","toNode":"33cef747db11bbfa","toSide":"top"},
+		{"id":"3c98b50a25d4ffb2","fromNode":"13c6123e14f2eda2","fromSide":"bottom","toNode":"23d02739df9e80e1","toSide":"top"},
+		{"id":"8091293f6407db16","fromNode":"23d02739df9e80e1","fromSide":"bottom","toNode":"5da7a8540865b8dc","toSide":"top"}
+	]
+}
