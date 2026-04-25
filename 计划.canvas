@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d1333b3a31c65795","type":"text","text":"视频","x":-479,"y":-339,"width":250,"height":60},
+		{"id":"95c56cd9d327bf34","type":"file","file":"问题❌/问题：记忆力and专注力/记忆力and专注力.md","x":160,"y":-339,"width":250,"height":60},
+		{"id":"05e3b2b4c5db760f","type":"text","text":"运动","x":-479,"y":-220,"width":250,"height":60},
+		{"id":"05ad086733ae7e3d","type":"text","text":"身高","x":160,"y":-220,"width":250,"height":60},
+		{"id":"e01a0840836ac870","type":"text","text":"饮食","x":-479,"y":-100,"width":250,"height":60},
+		{"id":"717c791bdf6b3fb0","type":"text","text":"体重","x":160,"y":-100,"width":250,"height":60},
+		{"id":"5d88284d4a0b63e8","type":"text","text":"成就感，积累感","x":160,"y":20,"width":250,"height":60},
+		{"id":"2b881d6d3b872df9","type":"text","text":"单词","x":-479,"y":20,"width":250,"height":60},
+		{"id":"da7e4da4f35bfe8e","x":-479,"y":180,"width":250,"height":60,"type":"text","text":"每天固定要做哪些？"},
+		{"id":"147a871fca802a6c","x":-479,"y":300,"width":250,"height":60,"type":"text","text":"单词 100"},
+		{"id":"ca73debc1f88a6be","x":-479,"y":360,"width":250,"height":60,"type":"text","text":"早餐，晚餐，午餐"},
+		{"id":"295d6f68665bdaae","x":-229,"y":360,"width":250,"height":60,"type":"text","text":"维生素 ABCDEFG"},
+		{"id":"5c682273f4e3208c","x":20,"y":360,"width":250,"height":60,"type":"text","text":"多餐"},
+		{"id":"1511fc045e4d240d","x":270,"y":360,"width":250,"height":60,"type":"text","text":"蛋白粉，牛奶"},
+		{"id":"e2e8465e261df127","x":-479,"y":420,"width":250,"height":60,"type":"text","text":"生理清洁"},
+		{"id":"74fe642fe7d0914a","x":-229,"y":420,"width":499,"height":60,"type":"text","text":"洗澡，刷牙，洗脸，洗头，垃圾，整理房间"},
+		{"id":"593402b505f2cda4","x":-479,"y":480,"width":250,"height":60,"type":"text","text":"出门"},
+		{"id":"06cdca6cc524b3f4","x":-229,"y":480,"width":250,"height":60,"type":"text","text":"拉伸，跳跃，引体"},
+		{"id":"41e3c5c113d297c6","x":520,"y":360,"width":250,"height":60,"type":"text","text":"甲状腺"},
+		{"id":"995f4c23470e7514","x":-479,"y":540,"width":250,"height":60,"type":"text","text":"睡眠"},
+		{"id":"04d23c4d9e3c9bc2","x":-230,"y":540,"width":250,"height":60,"type":"text","text":"23：00 之前"},
+		{"id":"1056a40b73d88f54","x":-479,"y":-460,"width":250,"height":60,"type":"text","text":"作息"},
+		{"id":"33080f9541bc90ca","x":20,"y":480,"width":250,"height":60,"type":"text","text":"太阳"}
+	],
+	"edges":[
+		{"id":"9ddca890eb1f334c","fromNode":"d1333b3a31c65795","fromSide":"right","toNode":"95c56cd9d327bf34","toSide":"left"},
+		{"id":"6f4b1b8451b08112","fromNode":"05e3b2b4c5db760f","fromSide":"right","toNode":"05ad086733ae7e3d","toSide":"left"},
+		{"id":"deb676e2e7416f94","fromNode":"e01a0840836ac870","fromSide":"right","toNode":"717c791bdf6b3fb0","toSide":"left"},
+		{"id":"d36f22f0ba679d8e","fromNode":"2b881d6d3b872df9","fromSide":"right","toNode":"5d88284d4a0b63e8","toSide":"left"}
+	]
+}
