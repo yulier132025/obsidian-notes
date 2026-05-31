@@ -13,7 +13,9 @@
 		{"id":"3c5e05ff7f36a485","type":"text","text":"6.1~6.7","x":-220,"y":-500,"width":250,"height":60},
 		{"id":"050e770540ed364e","x":140,"y":520,"width":250,"height":60,"type":"text","text":"忙起来，一天给自己制定一个任务，做饭游戏都可以"},
 		{"id":"adcfecf75076a8d7","x":140,"y":400,"width":250,"height":60,"type":"text","text":"不看"},
-		{"id":"973c3af399d9bef0","x":140,"y":700,"width":250,"height":60,"type":"text","text":"暂时没招，意志力硬顶"}
+		{"id":"973c3af399d9bef0","x":140,"y":700,"width":250,"height":60,"type":"text","text":"暂时没招，意志力硬顶"},
+		{"id":"1f763a094cd6cda6","x":539,"y":520,"width":250,"height":60,"type":"text","text":"多巴胺来源"},
+		{"id":"26a4af9a32bb5ca6","x":539,"y":220,"width":250,"height":60,"type":"text","text":"整理和记录+复盘"}
 	],
 	"edges":[
 		{"id":"f436334ef1f99407","fromNode":"7c5daee6ecf4ea80","fromSide":"right","toNode":"adcfecf75076a8d7","toSide":"left"},
