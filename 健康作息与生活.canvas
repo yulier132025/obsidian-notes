@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"3d4f937fd1d9fa6a","type":"text","text":"晚上 11：30 之前睡","x":-220,"y":-200,"width":250,"height":60},
+		{"id":"87c8bef7f2cfcf01","type":"text","text":"吃三餐","x":-220,"y":-80,"width":250,"height":60},
+		{"id":"fe117697fc5431f4","type":"text","text":"不看视频","x":-220,"y":40,"width":250,"height":60},
+		{"id":"5d17ca93f01ef8fa","type":"text","text":"不玩 LOL","x":-220,"y":160,"width":250,"height":60},
+		{"id":"60bcfb5278e480f9","type":"text","text":"那干什么？","x":140,"y":40,"width":250,"height":60},
+		{"id":"9ce982e69c55a7d4","type":"text","text":"整理房间和屋子，玩游戏，聊天，睡觉，有兴致来就学习，吃东西，做点小手工，煮点东西，出去逛一逛，运动，晒太阳","x":480,"y":40,"width":500,"height":60},
+		{"id":"7c5daee6ecf4ea80","type":"text","text":"视频/网络","x":-220,"y":400,"width":250,"height":60},
+		{"id":"7132c6d8eb8d63f2","type":"text","text":"没事做的时候","x":-220,"y":520,"width":250,"height":60},
+		{"id":"ea70482ae2cbbf6f","type":"text","text":"睡前","x":-220,"y":640,"width":250,"height":60},
+		{"id":"8cb9128c13102b8f","type":"text","text":"突发的","x":-220,"y":760,"width":250,"height":60},
+		{"id":"3c5e05ff7f36a485","type":"text","text":"6.1~6.7","x":-220,"y":-500,"width":250,"height":60},
+		{"id":"050e770540ed364e","x":140,"y":520,"width":250,"height":60,"type":"text","text":"忙起来，一天给自己制定一个任务，做饭游戏都可以"},
+		{"id":"adcfecf75076a8d7","x":140,"y":400,"width":250,"height":60,"type":"text","text":"不看"},
+		{"id":"973c3af399d9bef0","x":140,"y":700,"width":250,"height":60,"type":"text","text":"暂时没招，意志力硬顶"}
+	],
+	"edges":[
+		{"id":"f436334ef1f99407","fromNode":"7c5daee6ecf4ea80","fromSide":"right","toNode":"adcfecf75076a8d7","toSide":"left"},
+		{"id":"b562f31a5333736f","fromNode":"7132c6d8eb8d63f2","fromSide":"right","toNode":"050e770540ed364e","toSide":"left"},
+		{"id":"37c1e792c81ff30b","fromNode":"ea70482ae2cbbf6f","fromSide":"right","toNode":"973c3af399d9bef0","toSide":"left"},
+		{"id":"dc6426173a9686ba","fromNode":"8cb9128c13102b8f","fromSide":"right","toNode":"973c3af399d9bef0","toSide":"left"}
+	]
+}
