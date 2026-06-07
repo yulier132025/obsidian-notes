@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2723e1358794fca7","x":-334,"y":-109,"width":250,"height":60,"type":"text","text":"预设完成时间，进行时段"},
+		{"id":"cef34c296bb30e2a","x":-334,"y":-240,"width":250,"height":60,"type":"text","text":"方法"},
+		{"id":"edb693fabc2fef89","x":88,"y":-107,"width":532,"height":60,"type":"text","text":"不是被时间拖着走。到 ddl 才想做，但那时候行动阻力只会更高。"}
+	],
+	"edges":[]
+}
